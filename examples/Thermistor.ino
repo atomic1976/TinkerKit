@@ -1,4 +1,4 @@
-#include <TinkerKit.h>
+#include <TinkerKit-Library-Spark.h>
 
 TKThermistor therm(I0);       
 
