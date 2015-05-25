@@ -1,4 +1,4 @@
-#include "TinkerKit.h"
+#include "TinkerKit-Library-Spark.h"
 
 #if USB_VID == 0x2341 && USB_PID == 0x803C
 #include <Esplora.h>
